@@ -2,7 +2,8 @@
   "name": "rotia80/coding-style",
   "description": "PHP Coding Style rules",
   "type": "library",
-  "keywords": ["static analysis", "code style"],  
+  "keywords": ["static analysis", "code style"],
+  "license": "AGPL-3.0-or-later",  
   "authors": [
     {
       "name": "Aitor"
