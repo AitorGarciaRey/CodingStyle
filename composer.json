@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "App\\": "src/"
+      "Rotia80\\": "src/"
     }
   },
   "require-dev": {

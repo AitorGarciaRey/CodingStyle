@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Rotia80;
 
 final class CodingStyle
 {

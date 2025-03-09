@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use App\CodingStyle;
+use Rotia80\CodingStyle;
 use Symplify\EasyCodingStandard\Config\ECSConfig;
 
 return static function (ECSConfig $ecsConfig): void {
