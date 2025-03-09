@@ -14,7 +14,7 @@
       "Rotia80\\": "src/"
     }
   },
-  "require-dev": {
+  "require": {
     "symplify/easy-coding-standard": "^12.5"
   }
 }
