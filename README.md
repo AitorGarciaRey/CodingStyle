@@ -1,13 +1,12 @@
 # CodingStyle
 
-## 📥 Installation
-
+## 📥 Instalación
+1. Instalar dependencias
 ```sh
 composer require --dev rotia80/coding-style
 ```
-
-## 💻 Usage
-
+## 💻 Modo uso
+1. Añadir fichero `ecs.php`
 ```php
 <?php
 
@@ -19,3 +18,10 @@ return static function (ECSConfig $ecsConfig): void {
     $ecsConfig->sets([CodingStyle::DEFAULT]);
 };
 ```
+2. Ejecutar:
+    ```sh
+    /vendor/bin/ecs check
+    ```
+    ```sh
+    /vendor/bin/ecs check --fix
+    ```
