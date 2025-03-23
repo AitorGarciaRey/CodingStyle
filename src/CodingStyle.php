@@ -1,6 +1,6 @@
 <?php
 
-namespace Rotia80;
+namespace AitorGarciaRey;
 
 final class CodingStyle
 {

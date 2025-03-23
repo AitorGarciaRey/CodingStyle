@@ -3,14 +3,14 @@
 ## 📥 Instalación
 1. Instalar dependencias
 ```sh
-composer require --dev rotia80/coding-style
+composer require --dev aitorgarciarey/coding-style
 ```
 ## 💻 Modo uso
 1. Añadir fichero `ecs.php`
 ```php
 <?php
 
-use Rotia80\CodingStyle;
+use AitorGarciaRey\CodingStyle;
 use Symplify\EasyCodingStandard\Config\ECSConfig;
 
 return static function (ECSConfig $ecsConfig): void {

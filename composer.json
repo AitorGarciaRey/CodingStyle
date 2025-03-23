@@ -1,5 +1,5 @@
 {
-  "name": "rotia80/coding-style",
+  "name": "aitorgarciarey/coding-style",
   "description": "PHP Coding Style rules",
   "type": "library",
   "keywords": ["static analysis", "code style"],
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Rotia80\\": "src/"
+      "AitorGarciaRey\\": "src/"
     }
   },
   "require": {
