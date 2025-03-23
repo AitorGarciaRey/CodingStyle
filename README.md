@@ -3,7 +3,7 @@
 ## 📥 Installation
 
 ```sh
-composer require --dev rotia80/coding-style
+composer require --dev aitorgarciarey/coding-style
 ```
 
 ## 💻 Usage
@@ -11,7 +11,7 @@ composer require --dev rotia80/coding-style
 ```php
 <?php
 
-use Rotia80\CodingStyle;
+use AitorGarciaRey\CodingStyle;
 use Symplify\EasyCodingStandard\Config\ECSConfig;
 
 return static function (ECSConfig $ecsConfig): void {
